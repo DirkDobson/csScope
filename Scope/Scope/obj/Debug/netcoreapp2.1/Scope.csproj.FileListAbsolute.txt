@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#Scope/Scope/Scope/bin/Debug/netcoreapp2.1/Scope.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#Scope/Scope/Scope/bin/Debug/netcoreapp2.1/Scope.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#Scope/Scope/Scope/bin/Debug/netcoreapp2.1/Scope.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#Scope/Scope/Scope/bin/Debug/netcoreapp2.1/Scope.dll
+/Users/dirkvancouver/Desktop/Projects/c#Scope/Scope/Scope/bin/Debug/netcoreapp2.1/Scope.pdb
+/Users/dirkvancouver/Desktop/Projects/c#Scope/Scope/Scope/obj/Debug/netcoreapp2.1/Scope.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#Scope/Scope/Scope/obj/Debug/netcoreapp2.1/Scope.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Scope/Scope/Scope/obj/Debug/netcoreapp2.1/Scope.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Scope/Scope/Scope/obj/Debug/netcoreapp2.1/Scope.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#Scope/Scope/Scope/obj/Debug/netcoreapp2.1/Scope.dll
+/Users/dirkvancouver/Desktop/Projects/c#Scope/Scope/Scope/obj/Debug/netcoreapp2.1/Scope.pdb
